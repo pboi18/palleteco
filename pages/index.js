@@ -4,6 +4,7 @@ import Hero from './component/Hero'
 import Navbar from './component/Navbar'
 import Benefits from './component/Benefits'
 import Team from './component/Team'
+import DiscoverListings from './component/DiscoverListings'
 
 
 export default function Home() {
@@ -19,6 +20,7 @@ export default function Home() {
       <Hero />
       <Benefits />
       <Team />
+      <DiscoverListings />
     
     </div>
   )

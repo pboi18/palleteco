@@ -30,7 +30,7 @@ const Team = () => {
                   <h2 className='font-bold text-md mt-4'>Sign Up</h2>
                   <p className='text-gray-600 text-sm'>First, you&apos;ll need to sign up for an account on our website. This is a quick and easy process that only takes a few minutes.</p>
                   <div className='mt-5'>
-                        <button className='mb-8 px-7 py-1 border mt-4 rounded border-green-900 text-green-900 font-bold hover:text-white hover:bg-green-900'>Sign Up</button>
+                        <button className='mb-8 px-7 py-2 border mt-4 rounded border-green-900 text-green-900 font-bold hover:text-white hover:bg-green-900'>Sign Up</button>
                     </div>
                </div>
               </div>
@@ -53,7 +53,7 @@ const Team = () => {
                   <h2 className='font-bold text-md mt-4'>Browse and search</h2>
                   <p className='text-gray-600 text-sm'>Once you&apos;re signed up, you can start browsing and searching for pallets that meet your needs. You can filter your search results by pallet type, size, location, </p>
                   <div className='mt-5'>
-                        <button className='mb-8  px-7 py-1 border rounded border-green-900 text-green-900 font-bold hover:text-white hover:bg-green-900'>Browse</button>
+                        <button className='mb-8  px-7 py-2 border rounded border-green-900 text-green-900 font-bold hover:text-white hover:bg-green-900'>Browse</button>
                     </div>
                </div>
                 </div>
@@ -76,7 +76,7 @@ const Team = () => {
                   <h2 className='font-bold text-md mt-4'>Buy and Sell</h2>
                   <p className='text-gray-600 text-sm'>If you are looking to buy pallets,you can purchase a pallet directly from the seller.If you are a seller, you can list your pallets for sale and respond to buyers offers.</p>
                   <div className='mt-5'>
-                        <button className='mb-8 px-7 py-1 border rounded border-green-900 text-green-900 font-bold hover:text-white hover:bg-green-900'>Start Buying</button>
+                        <button className='mb-8 px-7 py-2 border rounded border-green-900 text-green-900 font-bold hover:text-white hover:bg-green-900'>Start Buying</button>
                     </div>
                </div>
                 </div>
